@@ -19,4 +19,7 @@ export default {
 html{
   font-size: 62.5%;
 }
+body{
+    background: #111;
+}
 </style>
