@@ -1,4 +1,6 @@
-# catfut
+# Soccer teams catalog
+
+
 
 ## Project setup
 ```
